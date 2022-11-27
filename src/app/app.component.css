@@ -1,0 +1,18 @@
+button {
+  background: transparent;
+  border-radius: .5rem;
+  padding: 0 1rem;
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px;
+  transition: 200ms;
+}
+
+button:hover {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  transform: translateY(-2px);
+}
+
+button:active {
+  box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px;
+  transform: translateY(0px);
+}
