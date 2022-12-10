@@ -11435,3 +11435,7 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.carousel-item {
+  padding: 4rem;
+}

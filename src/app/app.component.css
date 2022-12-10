@@ -16,3 +16,7 @@ button:active {
   box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px;
   transform: translateY(0px);
 }
+
+ol li {
+  text-align: justify;
+}
